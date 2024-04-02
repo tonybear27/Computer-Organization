@@ -1,0 +1,170 @@
+$date
+   Tue Mar 19 13:18:03 2024
+$end
+
+$version
+  2023.2
+  $dumpfile ("testbench.vcd") 
+$end
+
+$timescale
+  1ps
+$end
+
+$scope module testbench $end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var reg 1 # bin $end
+$var wire 1 $ diff $end
+$var wire 1 % bout $end
+$var reg 9 & golden_diff [8:0] $end
+$var reg 9 ' golden_borrow [8:0] $end
+$var reg 1 ( correct $end
+$var reg 1 ) clk $end
+$var integer 32 * counter [31:0] $end
+$scope module FSUB $end
+$var wire 1 + In_A $end
+$var wire 1 , In_B $end
+$var wire 1 - Borrow_in $end
+$var wire 1 $ Difference $end
+$var wire 1 % Borrow_out $end
+$var wire 1 . Diff_from_HSUB1 $end
+$var wire 1 / Borrow_from_HSUB1 $end
+$scope module HSUB1 $end
+$var wire 1 + In_A $end
+$var wire 1 , In_B $end
+$var wire 1 . Difference $end
+$var wire 1 / Borrow_out $end
+$var wire 1 0 A_bar $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+
+#0
+$dumpvars
+0!
+0"
+0#
+0$
+0%
+b10010110 &
+b10001110 '
+1(
+0)
+b0 *
+0+
+0,
+0-
+0.
+0/
+10
+$end
+
+#5000
+1)
+b1 *
+
+#10000
+1#
+1$
+1%
+0)
+1-
+
+#15000
+1)
+b10 *
+
+#20000
+1"
+0#
+1$
+1%
+0)
+1,
+0-
+1.
+1/
+
+#25000
+1)
+b11 *
+
+#30000
+1#
+0$
+0%
+0)
+1-
+
+#35000
+0(
+1)
+b100 *
+
+#40000
+1!
+0"
+0#
+1$
+0%
+0)
+1+
+0,
+0-
+0/
+00
+
+#45000
+1)
+b101 *
+
+#50000
+1#
+0$
+0)
+1-
+
+#55000
+1)
+b110 *
+
+#60000
+1"
+0#
+0$
+0)
+1,
+0-
+0.
+
+#65000
+1)
+b111 *
+
+#70000
+1#
+1$
+1%
+0)
+1-
+
+#75000
+1)
+b1000 *
+
+#80000
+0!
+0"
+0#
+0$
+0%
+0)
+0+
+0,
+0-
+10
+
+#85000
+1)

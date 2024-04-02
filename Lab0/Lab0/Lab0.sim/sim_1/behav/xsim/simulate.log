@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+***************************************************
+
+   Pattern           3 is wrong! 
+   Your diff = 0, golden = 0 
+   Your borrow = 0, golden = 1 
+
+***************************************************
+
+$finish called at time : 85 ns : File "C:/Users/tony2/OneDrive/Desktop/NYCU/Courses/2023_Spring/Computer_Organization/Lab0/testbench.v" Line 156
