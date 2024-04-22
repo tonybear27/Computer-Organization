@@ -107,7 +107,7 @@ module alu (
         else if (ALU_ctl == 4'b0110)
             operation = 2'b10;
         else if (ALU_ctl == 4'b1100)
-            operation = 2'b00;
+            operation = 2'b01;
         else if (ALU_ctl == 4'b0111)
             operation = 2'b11;
         else
