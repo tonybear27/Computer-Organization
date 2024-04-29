@@ -1,5 +1,5 @@
 `timescale 1ns / 1ps
-// 110700045
+// 
 
 /* checkout FIGURE C.5.12 */
 /** [Prerequisite] complete bit_alu.v & msb_alu.v
