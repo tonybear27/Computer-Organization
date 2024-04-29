@@ -1,5 +1,5 @@
 `timescale 1ns / 1ps
-// 110700045
+// 
 
 /* checkout FIGURE 4.7 */
 module reg_file (

@@ -1,5 +1,5 @@
 `timescale 1ns / 1ps
-// 110700045
+//
 
 /** [Reading] 4.4 p.321-327
  * "Operation of the Datapath"
