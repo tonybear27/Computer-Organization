@@ -1,0 +1,11 @@
+Time resolution is 1 ps
+#### tb_single_cycle.sv ####
+==== Test  0 RUNNING ====
+number of instructions: 24 , exit @ 0x00400060
+run 24 cycles
+==== Test  0 PASSED ====
+#### Test Result ####
+Passed  1 : 0
+Failed  0 :
+#### all passed!
+$finish called at time : 100 ns : File "C:/Users/tony2/OneDrive/Desktop/NYCU/Courses/2023_Spring/Computer_Organization/Lab2/testbench/tb_single_cycle.sv" Line 66
