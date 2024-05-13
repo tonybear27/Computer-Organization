@@ -1,5 +1,4 @@
 `timescale 1ns / 1ps
-// 110700045
 
 /** [Reading] 4.4 p.318-321
  * "Designing the Main Control Unit"

@@ -1,5 +1,5 @@
 `timescale 1ns / 1ps
-// 110700045
+
 
 /** [Prerequisite] Lab 2: alu, control, alu_control
  * This module is the pipelined MIPS processor in FIGURE 4.51
