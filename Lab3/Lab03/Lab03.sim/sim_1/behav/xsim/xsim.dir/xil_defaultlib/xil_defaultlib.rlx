@@ -1,0 +1,15 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/tony2/OneDrive/Desktop/NYCU/Courses/2023_Spring/Computer_Organization/Lab3/Lab03/Lab03.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/tony2/OneDrive/Desktop/NYCU/Courses/2023_Spring/Computer_Organization/Lab3/src/alu.v,1714318552,verilog,,C:/Users/tony2/OneDrive/Desktop/NYCU/Courses/2023_Spring/Computer_Organization/Lab3/src/alu_control.v,,alu,,uvm,,,,,,
+C:/Users/tony2/OneDrive/Desktop/NYCU/Courses/2023_Spring/Computer_Organization/Lab3/src/alu_control.v,1714318553,verilog,,C:/Users/tony2/OneDrive/Desktop/NYCU/Courses/2023_Spring/Computer_Organization/Lab3/src/bit_alu.v,,alu_control,,uvm,,,,,,
+C:/Users/tony2/OneDrive/Desktop/NYCU/Courses/2023_Spring/Computer_Organization/Lab3/src/bit_alu.v,1714318552,verilog,,C:/Users/tony2/OneDrive/Desktop/NYCU/Courses/2023_Spring/Computer_Organization/Lab3/src/control.v,,bit_alu,,uvm,,,,,,
+C:/Users/tony2/OneDrive/Desktop/NYCU/Courses/2023_Spring/Computer_Organization/Lab3/src/control.v,1715523585,verilog,,C:/Users/tony2/OneDrive/Desktop/NYCU/Courses/2023_Spring/Computer_Organization/Lab3/src/data_mem.v,,control,,uvm,,,,,,
+C:/Users/tony2/OneDrive/Desktop/NYCU/Courses/2023_Spring/Computer_Organization/Lab3/src/data_mem.v,1714381282,verilog,,C:/Users/tony2/OneDrive/Desktop/NYCU/Courses/2023_Spring/Computer_Organization/Lab3/src/instr_mem.v,,data_mem,,uvm,,,,,,
+C:/Users/tony2/OneDrive/Desktop/NYCU/Courses/2023_Spring/Computer_Organization/Lab3/src/instr_mem.v,1714381282,verilog,,C:/Users/tony2/OneDrive/Desktop/NYCU/Courses/2023_Spring/Computer_Organization/Lab3/src/msb_bit_alu.v,,instr_mem,,uvm,,,,,,
+C:/Users/tony2/OneDrive/Desktop/NYCU/Courses/2023_Spring/Computer_Organization/Lab3/src/msb_bit_alu.v,1714318552,verilog,,C:/Users/tony2/OneDrive/Desktop/NYCU/Courses/2023_Spring/Computer_Organization/Lab3/src/pipelined.v,,msb_bit_alu,,uvm,,,,,,
+C:/Users/tony2/OneDrive/Desktop/NYCU/Courses/2023_Spring/Computer_Organization/Lab3/src/pipelined.v,1715579119,verilog,,C:/Users/tony2/OneDrive/Desktop/NYCU/Courses/2023_Spring/Computer_Organization/Lab3/src/reg_file.v,,pipelined,,uvm,,,,,,
+C:/Users/tony2/OneDrive/Desktop/NYCU/Courses/2023_Spring/Computer_Organization/Lab3/src/reg_file.v,1714318553,verilog,,,,reg_file,,uvm,,,,,,
+C:/Users/tony2/OneDrive/Desktop/NYCU/Courses/2023_Spring/Computer_Organization/Lab3/testbench/tb_pipelined.sv,1714381282,systemVerilog,,,,tb_pipelined,,uvm,,,,,,
