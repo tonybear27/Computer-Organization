@@ -48,7 +48,7 @@ module control (
 
     assign reg_dst = re;
     assign alu_src = lw | sw | addi;
-    assign reg_write = addi? 0: ((re & ~nop) | lw);
+    assign reg_write = addi? 1: ((re & ~nop) | lw);
     assign mem_read = lw;
     assign mem_write = sw;
     assign mem_to_reg = lw;
